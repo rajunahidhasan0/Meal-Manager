@@ -1,0 +1,31 @@
+18
+
+1  Malek   19 18 18 2 
+
+2  Saiful  20 19 20 3
+2  Ruhul   22 22 17 3
+
+3  Raju	   8  19 20 3
+3  Shahin  17 19 18 1
+
+4  Emran   20 20 20 3
+
+5  Rasel   16 17 17 1
+5  Shoaib  12 12 12 2
+
+6  Zaki    20 9  3  3
+
+7  Toha    7  7  5  1
+7  Jamil   17 16 15 3
+
+8  Rana    18 19 19 2
+8  Sojib   19 20 20 3
+
+9  Abrar   9  7  7  1
+
+10 Sohan   19 20 15 3
+10 Raisul  6  4  4  3
+
+11 Noyon   5  5  1  2
+
+12 Shorif  16 18 18 2

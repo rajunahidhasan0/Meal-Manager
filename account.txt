@@ -1,0 +1,30 @@
+18
+
+1  Malek   1700
+
+2  Saiful  1500
+2  Ruhul   1500
+
+3  Raju	   1300
+3  Shahin  1500
+
+4  Emran   1200
+
+5  Rasel   1400
+5  Shoaib  600
+
+6  Zaki    2000
+
+7  Toha    1000
+7  Jamil   1900
+
+8  Rana    1855
+8  Sojib   940
+
+9  Abrar   1400
+
+10 Sohan   1600
+10 Raisul  300
+
+11 Noyon   675
+12 Shorif  1500
